@@ -1,5 +1,7 @@
 # PlantDoc – Plant Disease Classification
 
+![PlantDoc Plant Disease Classification](plantdoc-banner.jfif)
+
 ## Project Overview
 
 Plant diseases can significantly affect crop quality and agricultural productivity. Early identification of plant diseases can help farmers take appropriate action before diseases spread and cause greater losses.
